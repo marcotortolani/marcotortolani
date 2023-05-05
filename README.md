@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcotortolani
 - 👀 I’m interested in Front End Developer.
-- 🌱 I’m currently learning React.
+- 💻 I’m working with ReactJS, TailwindCSS, SASS.
 - 💞️ I’m looking to collaborate on new and chalenging projects.
 - 📫 How to reach me: 
 - mjtorto@gmail.com
