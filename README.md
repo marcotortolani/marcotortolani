@@ -1,5 +1,11 @@
 # 💫 About Me:
-    👋 Hi, I’m Marco Tortolani<br>    🧠 Focused on Front End.<br>    💻 Working with ReactJS, TailwindCSS, SASS.<br>    🎯 Looking to collaborate on new and chalenging projects.<br>    📫 How to reach me:<br>    mjtorto@gmail.com<br>    www.mtorto.com<br><br>
+👋 Hi, I’m Marco Tortolani
+🧠 Focused on Front End.
+💻 Working with ReactJS, TailwindCSS, SASS.
+🎯 Looking to collaborate on new and chalenging projects.
+📫 How to reach me:
+mjtorto@gmail.com
+www.mtorto.com
 
 
 ## 🌐 Socials:
