@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Marco Tortolani
+👋 Hi, I’m Marco Tortolani<br>
 🧠 Focused on Front End.
 💻 Working with ReactJS, TailwindCSS, SASS.
 🎯 Looking to collaborate on new and chalenging projects.
