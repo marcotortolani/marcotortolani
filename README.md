@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @marcotortolani
-- 👀 I’m interested in Front End Developer.
-- 💻 I’m working with ReactJS, TailwindCSS, SASS.
-- 💞️ I’m looking to collaborate on new and chalenging projects.
-- 📫 How to reach me: 
-- mjtorto@gmail.com
-- www.mtorto.com
+    👋 Hi, I’m Marco Tortolani
+    🧠 Focused on Front End.
+    💻 Working with ReactJS, TailwindCSS, SASS.
+    🎯 Looking to collaborate on new and chalenging projects.
+    📫 How to reach me:
+    mjtorto@gmail.com
+    www.mtorto.com
 
 
 <!---
