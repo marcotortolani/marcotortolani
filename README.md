@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🧠 Focused on Front End and user experience.<br>💻 Working with ReactJS, TailwindCSS, SASS.<br>🎯 Looking to collaborate on new and chalenging projects.</p>
+<p align="left">🧠 Focused on Front End and user experience.<br>💻 Working with ReactJS, TailwindCSS, SASS.<br>🎯 Looking to collaborate on new and challenging projects.<br>💪🏻 Team player.</p>
 
 ###
 
